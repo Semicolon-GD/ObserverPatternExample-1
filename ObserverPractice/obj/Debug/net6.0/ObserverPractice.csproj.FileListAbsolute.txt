@@ -1,0 +1,15 @@
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\bin\Debug\net6.0\ObserverPractice.exe
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\bin\Debug\net6.0\ObserverPractice.deps.json
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\bin\Debug\net6.0\ObserverPractice.runtimeconfig.json
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\bin\Debug\net6.0\ObserverPractice.dll
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\bin\Debug\net6.0\ObserverPractice.pdb
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\ObserverPractice.csproj.AssemblyReference.cache
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\ObserverPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\ObserverPractice.AssemblyInfoInputs.cache
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\ObserverPractice.AssemblyInfo.cs
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\ObserverPractice.csproj.CoreCompileInputs.cache
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\ObserverPractice.dll
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\refint\ObserverPractice.dll
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\ObserverPractice.pdb
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\ObserverPractice.genruntimeconfig.cache
+C:\Users\malio\source\repos\ObserverPractice\ObserverPractice\obj\Debug\net6.0\ref\ObserverPractice.dll
